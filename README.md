@@ -1,5 +1,5 @@
 - Fayis Muhammed
 - Game Developer from Kerala, India
-- Currently working on an online messaging service written in Python((Impulse)[https://github.com/fayizms/Impulse-Terminal])
+- Currently working on an online messaging service written in Python(https://github.com/fayizms/Impulse-Terminal)
 - Learning Frontend and Backend Web development(I mean full stack)
-- For any kind of collaboration, dm me on instagram(@fayis_ms) or Discord(FAYIZ#3579)
+- For collaboration or anything else, dm me on instagram(@fayis_ms) or Discord(FAYIZ#3579)
