@@ -1,5 +1,5 @@
 - Fayis Muhammed
-- Game Developer, Front-End Web Developer etc.
+- 14yr old Game Developer and Front-End Web Developer
 - Currently working on an online messaging service written in Python(https://github.com/fayizms/Impulse-Terminal)
 - Learning Frontend and Backend Web development(I mean full stack)
 - For collaboration or anything else, dm me on instagram(<a href="https://instagram.com/fayis_ms">@fayis_ms</a>) or Discord(FAYIZ#3579)
